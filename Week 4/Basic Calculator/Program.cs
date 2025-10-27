@@ -1,4 +1,7 @@
-﻿using System; 
+﻿// Write a program that prompts users to enter two numbers and operator (-,+,*,/) 
+// and performs operations accordingly. 
+
+using System; 
 using System.Data.Common; 
 namespace Hello  
 
