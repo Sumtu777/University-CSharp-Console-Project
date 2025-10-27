@@ -1,0 +1,15 @@
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\bin\Debug\net9.0\Basic Calculator.exe
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\bin\Debug\net9.0\Basic Calculator.deps.json
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\bin\Debug\net9.0\Basic Calculator.runtimeconfig.json
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\bin\Debug\net9.0\Basic Calculator.dll
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\bin\Debug\net9.0\Basic Calculator.pdb
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.AssemblyInfo.cs
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.sourcelink.json
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.dll
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\refint\Basic Calculator.dll
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.pdb
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\Basic Calculator.genruntimeconfig.cache
+C:\Users\98856925\OneDrive - Ravensbourne\Desktop\c#\University-CSharp-Console-Project\Week 4\Basic Calculator\obj\Debug\net9.0\ref\Basic Calculator.dll
